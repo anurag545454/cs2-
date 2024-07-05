@@ -1,0 +1,131 @@
+*{
+      margin: 0%;
+      padding: 0%; 
+      font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+#nevbar{
+    height: 80px;
+    background-color: rgb(67, 67, 68);
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    border: 0PX SOLID red;
+    padding-top: 30PX;
+}
+
+A{
+    text-decoration: none;
+    color: white;
+    
+}
+
+
+
+
+#serach{
+    width: 350px;
+    border: 3px solid black;
+    padding: 10px;
+    border-radius: 40px;
+    height: 20px;
+}
+input{
+    background: transparent;
+    border: 0px;
+    outline: 0px;
+    width: 300px;
+    font-size: larger;
+}
+
+#ONE{
+    font-size: larger;
+    background-color: rgb(67, 67, 68);
+    ;
+    text-align: center;
+    justify-content: center;
+    
+}
+
+#main{
+    background-color: gray;
+    display: inline-block;
+    margin-left: 40px;
+    border-radius: 30px;
+}
+
+img{
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+}
+#name{
+    text-align: center;
+    padding-top: 20px;
+}
+
+#price{
+    text-align: center;
+    padding-top: 20px;
+}
+
+#button{
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 30px;
+    
+
+}
+
+button:hover{
+    border: 4px solid black;
+    border-radius: 10px;
+    background-color: black;
+    color: white;
+    transition-duration: .5s;
+}
+
+#maintwo{
+    background-color: gray;
+    display: inline-block;
+    margin-left: 100px;
+    border-radius: 30px;
+
+}
+
+#maintree{
+    background-color: gray;
+    display: inline-block;
+    margin-left: 100px;
+    border-radius: 30px;
+
+}
+
+
+footer{
+   height: 400PX;
+   background-color: black;
+   color: white;
+   border: 10PX solid red;
+   border-radius: 30PX;
+}
+
+
+#LAST{
+    margin-top: 30PX;
+}
+
+#CONTACT{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+#LASTTWO{
+
+    text-align: center;
+}
+
+
+h1{
+    padding: 8px;
+}
