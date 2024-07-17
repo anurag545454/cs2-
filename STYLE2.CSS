@@ -1,0 +1,13 @@
+*{
+  background-color:black ;  
+  color: white;
+}
+
+div{
+    width: 700PX;
+    height: 500px;
+    border: 2PX SOLID white;
+    border-radius: 40PX;
+    margin-top: 80PX;
+    margin-left: 300PX;
+}
